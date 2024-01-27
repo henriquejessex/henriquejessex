@@ -1,4 +1,5 @@
 [![Generate Datas](https://github.com/henriquejessex/henriquejessex/actions/workflows/main.yml/badge.svg)](https://github.com/henriquejessex/henriquejessex/actions/workflows/main.yml)
+[![GitHub Actions Demo](https://github.com/henriquejessex/henriquejessex/actions/workflows/github-actions-demo.yml/badge.svg?branch=main)](https://github.com/henriquejessex/henriquejessex/actions/workflows/github-actions-demo.yml)
 
 ## Olá! 👋
 
