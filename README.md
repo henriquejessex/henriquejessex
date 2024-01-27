@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/henriquejessex/henriquejessex/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/henriquejessex/henriquejessex/blob/output/github-contribution-grid-snake.svg)
 
 ## Olá! 👋
 
