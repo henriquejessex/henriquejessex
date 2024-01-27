@@ -44,8 +44,7 @@ Aqui, você encontrará implementações de várias estruturas de dados e algori
 Este repositório reflete meu interesse em aprendizado de máquina. Aqui, compartilho tutoriais, implementações e conjuntos de dados que estou explorando durante meus estudos nessa área fascinante.
 
 - **python-crash-course**
-Um espaço dedicado ao estudo e prática da linguagem Python. Este repositório contém exercícios, projetos e recursos que estou utilizando para aprimorar minhas habilidades em Python.
--->
+Um espaço dedicado ao estudo e prática da linguagem Python. Este repositório contém exercícios, projetos e recursos que estou utilizando para aprimorar minhas habilidades em Python.-->
 
 ## Contatos:
 
