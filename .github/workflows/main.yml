@@ -5,11 +5,6 @@ on:
     - cron: "* */12 * * *"
   workflow_dispatch:
 
-# run on every push on the master branch
-pu sh:
-  branches:
-  - master
-
 jobs:
   build:
     name: Jobs to update datas
