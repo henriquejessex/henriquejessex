@@ -29,22 +29,6 @@ Abaixo, você encontrará uma visão geral dos meus principais interesses e proj
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquejessex&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquejessex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-<!--  
-## Projetos Destacados
-- **Portfolio-Project**
-Este repositório é o meu espaço pessoal onde compartilho uma variedade de projetos, desde aplicativos web simples até experimentos de machine learning.
-
-- **calculator-js**
-Um projeto divertido onde implementei uma calculadora em JavaScript, explorando conceitos de manipulação de DOM e lógica de programação.
-
-- **Data-Structures-and-Algorithms**
-Aqui, você encontrará implementações de várias estruturas de dados e algoritmos em diferentes linguagens de programação. Este é um espaço onde pratico e aprofundo meus conhecimentos em ciência da computação.
-
-- **machine-learning-study**
-Este repositório reflete meu interesse em aprendizado de máquina. Aqui, compartilho tutoriais, implementações e conjuntos de dados que estou explorando durante meus estudos nessa área fascinante.
-
-- **python-crash-course**
-Um espaço dedicado ao estudo e prática da linguagem Python. Este repositório contém exercícios, projetos e recursos que estou utilizando para aprimorar minhas habilidades em Python.-->
 
 ## Contatos:
 
