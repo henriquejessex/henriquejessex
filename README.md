@@ -14,22 +14,7 @@ Abaixo, você encontrará uma visão geral dos meus principais interesses e proj
 - 💡 A diversidade dos meus interesses e projetos é uma qualidade valiosa que reflete minha busca contínua por conhecimento e minha vontade de enfrentar desafios técnicos diversos.
 - 🌱 Atualmente, estou focado em aprender e aprimorar minhas habilidades em várias áreas da ciência da computação e do desenvolvimento de software.
 
-## Tecnologias em Foco 
-<div>
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"  />
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"  />
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"  />
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"  />
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"  />
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"  />
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"  />
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"  />
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"  />
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"  />
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"  />
-
-</div>
 
 - **JavaScript**: Estou explorando as nuances do JavaScript, desde o desenvolvimento de aplicativos web até projetos de automação.
 - **Python**: Estou mergulhando no ecossistema Python, explorando suas aplicações em aprendizado de máquina, análise de dados e automação de tarefas.
