@@ -1,5 +1,4 @@
-[![Generate Datas](https://github.com/henriquejessex/henriquejessex/actions/workflows/main.yml/badge.svg)](https://github.com/henriquejessex/henriquejessex/actions/workflows/main.yml)
-[![GitHub Actions Demo](https://github.com/henriquejessex/henriquejessex/actions/workflows/github-actions.yml/badge.svg?branch=main)](https://github.com/henriquejessex/henriquejessex/actions/workflows/github-actions.yml)
+
 
 ## Olá ! 👋
 
@@ -18,8 +17,7 @@ Abaixo, você encontrará uma visão geral dos meus principais interesses e proj
 ## Tecnologias em Foco 
 <div>
 
-
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"  />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"  />
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"  />
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"  />
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"  />
@@ -29,7 +27,6 @@ Abaixo, você encontrará uma visão geral dos meus principais interesses e proj
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"  />
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"  />
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"  />
-
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"  />
 
 </div>
