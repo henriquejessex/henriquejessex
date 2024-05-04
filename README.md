@@ -9,18 +9,8 @@ Abaixo, você encontrará uma visão geral dos meus principais interesses e proj
 ## Sobre Mim
 
 - 🎓 Estudante de Ciência da Computação na Anhembi Morumbi.
-- 💼 Faço cursos na Digital Innovation One (DIO) e na Alura, aprimorando minhas habilidades e conhecimentos técnicos.
-- 🚀 Tenho uma grande curiosidade e disposição para aprender e explorar novas tecnologias.
-- 💡 A diversidade dos meus interesses e projetos é uma qualidade valiosa que reflete minha busca contínua por conhecimento e minha vontade de enfrentar desafios técnicos diversos.
-- 🌱 Atualmente, estou focado em aprender e aprimorar minhas habilidades em várias áreas da ciência da computação e do desenvolvimento de software.
+- 🌱 Focado em aprimorar minhas habilidades em várias áreas da ciência da computação e do desenvolvimento de software.
 
-
-
-- **JavaScript**: Estou explorando as nuances do JavaScript, desde o desenvolvimento de aplicativos web até projetos de automação.
-- **Python**: Estou mergulhando no ecossistema Python, explorando suas aplicações em aprendizado de máquina, análise de dados e automação de tarefas.
-- **Algoritmos e Estruturas de Dados**: Estou estudando e implementando uma variedade de algoritmos e estruturas de dados para fortalecer minha compreensão dos fundamentos da ciência da computação.
-- **Aprendizado de Máquina**: Estou mergulhando no mundo do aprendizado de máquina, explorando algoritmos, frameworks e aplicativos práticos.
-- **Desenvolvimento Web**: Estou aprimorando minhas habilidades em desenvolvimento web, explorando frameworks front-end e back-end, bem como conceitos avançados de arquitetura de software.
 
 <div>
 <a href="https://github.com/henriquejessex">
