@@ -2,11 +2,8 @@
 
 ## Olá ! 👋
 
-meu nome é **Jessé Henrique**, sou estudante de Ciência da Computação na Anhembi Morumbi. 
+meu nome é **Jessé Henrique**,
 Este é o meu espaço no GitHub, onde compartilho uma variedade de projetos pessoais, estudos e experimentos técnicos. 
-Abaixo, você encontrará uma visão geral dos meus principais interesses e projetos:
-
-## Sobre Mim
 
 - 🎓 Estudante de Ciência da Computação na Anhembi Morumbi.
 - 🌱 Focado em aprimorar minhas habilidades em várias áreas da ciência da computação e do desenvolvimento de software.
