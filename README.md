@@ -6,9 +6,7 @@ meu nome é **Jessé Henrique**,
 Este é o meu espaço no GitHub, onde compartilho uma variedade de projetos pessoais, estudos e experimentos técnicos. 
 
 - 🎓 Estudante de Ciência da Computação na Anhembi Morumbi.
-- 🌱 Focado em aprimorar minhas habilidades em várias áreas da ciência da computação e do desenvolvimento de software.
-
-
+- 
 <div>
 <a href="https://github.com/henriquejessex">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquejessex&layout=compact&langs_count=7&theme=light"/>
